@@ -1,3 +1,6 @@
+#this script scroll throuh all the folders in the director it stays and search for output.txt file. 
+#then it search lnL and np values and store them in a .csv file
+
 #!/bin/bash
 
 # Output CSV file
