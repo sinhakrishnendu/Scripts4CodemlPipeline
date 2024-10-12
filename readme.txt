@@ -1,3 +1,5 @@
+lnL_np_extractor.sh and LRT_test.ipynb are to be used successively. Consider the .sh file as the initial file of the pipeline whose output will be used as the input for the .ipynb.
+
 Here are detailed instructions on how to use the Python script `LRT_test.py` for performing likelihood ratio tests (LRT) on codon models, including the branch-site and two-ratio branch models. These instructions assume you have a basic understanding of Python and have the required dependencies installed.
 
 ### **Purpose of the Script:**
